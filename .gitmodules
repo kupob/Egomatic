@@ -1,0 +1,9 @@
+[submodule "Egomatic_flowmeter"]
+	path = Egomatic_flowmeter
+	url = https://github.com/kupob/Egomatic_flowmeter
+[submodule "Egomatic_cardreader"]
+	path = Egomatic_cardreader
+	url = https://github.com/kupob/Egomatic_cardreader
+[submodule "Egomatic_server"]
+	path = Egomatic_server
+	url = https://github.com/kupob/Egomatic_server
