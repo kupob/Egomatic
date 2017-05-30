@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1059ccc-c423-4a72-b624-0eca1eead8ea" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Egomatic_admin" afterPath="$PROJECT_DIR$/Egomatic_admin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Egomatic_cardreader" afterPath="$PROJECT_DIR$/Egomatic_cardreader" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Egomatic_flowmeter" afterPath="$PROJECT_DIR$/Egomatic_flowmeter" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Egomatic_server" afterPath="$PROJECT_DIR$/Egomatic_server" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.ini" afterPath="$PROJECT_DIR$/config.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/message_types.ini" afterPath="$PROJECT_DIR$/message_types.ini" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,8 +17,8 @@
       <file leaf-file-name="egomatic_server.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Egomatic_server/egomatic_server.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="33" lean-forward="false" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+            <state relative-caret-position="391">
+              <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
               <folding>
                 <element signature="e#25#52#0" expanded="true" />
               </folding>
@@ -31,11 +26,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="egomatic.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="egomatic.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Egomatic_flowmeter/egomatic.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="834">
-              <caret line="134" column="46" lean-forward="true" selection-start-line="134" selection-start-column="46" selection-end-line="134" selection-end-column="46" />
+            <state relative-caret-position="528">
+              <caret line="139" column="54" lean-forward="true" selection-start-line="139" selection-start-column="54" selection-end-line="139" selection-end-column="54" />
               <folding>
                 <element signature="e#43#59#0" expanded="true" />
               </folding>
@@ -43,32 +38,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="network_sender.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Egomatic_flowmeter/network_sender.py">
+      <file leaf-file-name="network_receiver.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Egomatic_flowmeter/network_receiver.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cyrillic_converter.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Egomatic_flowmeter/cyrillic_converter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1275">
-              <caret line="75" column="37" lean-forward="false" selection-start-line="75" selection-start-column="37" selection-end-line="75" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="configreader.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Egomatic_flowmeter/configreader.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="23" />
-              <folding />
+            <state relative-caret-position="34">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding>
+                <element signature="e#25#38#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -76,38 +53,52 @@
       <file leaf-file-name="database_adapter.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Egomatic_server/database_adapter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="794">
-              <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+            <state relative-caret-position="103">
+              <caret line="20" column="27" lean-forward="false" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="processor.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="processor.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Egomatic_server/processor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="647">
-              <caret line="90" column="33" lean-forward="false" selection-start-line="90" selection-start-column="33" selection-end-line="90" selection-end-column="33" />
+            <state relative-caret-position="324">
+              <caret line="61" column="35" lean-forward="false" selection-start-line="61" selection-start-column="35" selection-end-line="61" selection-end-column="35" />
+              <folding>
+                <element signature="e#25#52#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="constants.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Egomatic_server/constants.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="egomatic_cardreader.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Egomatic_cardreader/egomatic_cardreader.py">
+      <file leaf-file-name="config_reader.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Egomatic_server/config_reader.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="545">
-              <caret line="82" column="26" lean-forward="true" selection-start-line="82" selection-start-column="26" selection-end-line="82" selection-end-column="26" />
-              <folding />
+            <state relative-caret-position="544">
+              <caret line="32" column="37" lean-forward="true" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+              <folding>
+                <element signature="e#25#39#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Adafruit_CharLCD.py" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Python27/Lib/site-packages/Adafruit_CharLCD-1.1.1-py2.7.egg!/Adafruit_CharLCD/Adafruit_CharLCD.py">
+      <file leaf-file-name="network_sender.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Egomatic_server/network_sender.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="243" column="42" lean-forward="false" selection-start-line="243" selection-start-column="42" selection-end-line="243" selection-end-column="42" />
+            <state relative-caret-position="442">
+              <caret line="30" column="8" lean-forward="false" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -116,8 +107,18 @@
       <file leaf-file-name="flowmeter.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Egomatic_flowmeter/flowmeter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="743">
-              <caret line="77" column="20" lean-forward="true" selection-start-line="77" selection-start-column="20" selection-end-line="77" selection-end-column="20" />
+            <state relative-caret-position="17">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.ini" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -134,41 +135,42 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>thisPour</find>
-      <find>send_flow</find>
-      <find>balance</find>
-      <find>prices_loaded</find>
-      <find>MS_IN_A_SECOND</find>
-      <find>print</find>
-      <find>send_prices</find>
-      <find>rfid</find>
-      <find>GPIO</find>
-      <find>downloading</find>
-      <find>write8</find>
-      <find>message</find>
-      <find>char_mode</find>
-      <find>line</find>
-      <find>,</find>
-      <find>chr</find>
-      <find>crl_unichr</find>
-      <find>lcd</find>
-      <find>customer_balance</find>
-      <find>new_lcd_string</find>
-      <find>core</find>
-      <find>: '</find>
-      <find>lcd.message</find>
-      <find>set()</find>
       <find>flow_string</find>
       <find>totalPour</find>
       <find>00</find>
-      <find>address</find>
       <find>ip_address</find>
+      <find>self.database.get_result</find>
+      <find>new_customer_balance</find>
+      <find>amount</find>
+      <find>customer_balance</find>
+      <find>MSG_PRICES</find>
       <find>customer_id</find>
+      <find>price_pairs</find>
+      <find>sender</find>
+      <find>fr</find>
+      <find>from</find>
+      <find>from</find>
+      <find>from time</find>
+      <find>i</find>
+      <find>imp</find>
+      <find>import</find>
+      <find>import</find>
+      <find>import ti</find>
+      <find>import time</find>
+      <find>clicks</find>
+      <find>time</find>
+      <find>self.connection</find>
+      <find>connection</find>
+      <find>processor</find>
+      <find>address</find>
+      <find>port</find>
+      <find>send_prices</find>
     </findStrings>
     <replaceStrings>
       <replace>),</replace>
       <replace>crl_char</replace>
       <replace>: u'</replace>
+      <replace>single_row</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -184,23 +186,23 @@
         <option value="$PROJECT_DIR$/Egomatic_flowmeter/configreader.py" />
         <option value="$PROJECT_DIR$/Egomatic_flowmeter/data_sender.py" />
         <option value="$PROJECT_DIR$/Egomatic_flowmeter/data_receiver.py" />
-        <option value="$PROJECT_DIR$/message_types.ini" />
         <option value="$PROJECT_DIR$/Egomatic_cardreader/endpoint_reader.py" />
         <option value="$PROJECT_DIR$/Egomatic_cardreader/configreader.py" />
         <option value="$PROJECT_DIR$/Egomatic_server/server_config.ini" />
-        <option value="$PROJECT_DIR$/Egomatic_server/config_reader.py" />
-        <option value="$PROJECT_DIR$/Egomatic_flowmeter/network_sender.py" />
         <option value="$PROJECT_DIR$/Egomatic_flowmeter/network_receiver.py" />
         <option value="$PROJECT_DIR$/Egomatic_server/network_sender.py" />
         <option value="$PROJECT_DIR$/Egomatic_cardreader/network_sender.py" />
         <option value="$PROJECT_DIR$/config.ini" />
         <option value="$PROJECT_DIR$/Egomatic_flowmeter/cyrillic_converter.py" />
         <option value="$PROJECT_DIR$/Egomatic_cardreader/egomatic_cardreader.py" />
+        <option value="$PROJECT_DIR$/Egomatic_flowmeter/network_sender.py" />
+        <option value="$PROJECT_DIR$/message_types.ini" />
         <option value="$PROJECT_DIR$/Egomatic_flowmeter/flowmeter.py" />
-        <option value="$PROJECT_DIR$/Egomatic_flowmeter/egomatic.py" />
-        <option value="$PROJECT_DIR$/Egomatic_server/egomatic_server.py" />
         <option value="$PROJECT_DIR$/Egomatic_server/database_adapter.py" />
+        <option value="$PROJECT_DIR$/Egomatic_server/egomatic_server.py" />
+        <option value="$PROJECT_DIR$/Egomatic_server/config_reader.py" />
         <option value="$PROJECT_DIR$/Egomatic_server/processor.py" />
+        <option value="$PROJECT_DIR$/Egomatic_flowmeter/egomatic.py" />
       </list>
     </option>
   </component>
@@ -442,32 +444,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Egomatic_flowmeter/flowmeter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Adafruit_Python_CharLCD/ez_setup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4624">
-          <caret line="283" column="62" lean-forward="true" selection-start-line="283" selection-start-column="62" selection-end-line="283" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Egomatic_flowmeter/network_sender.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
-          <folding>
-            <element signature="e#24#37#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Egomatic_cardreader/network_sender.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -525,7 +501,7 @@
         <state relative-caret-position="612">
           <caret line="39" column="26" lean-forward="false" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
           <folding>
-            <element signature="e#25#38#0" expanded="false" />
+            <element signature="e#25#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -588,13 +564,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Egomatic_server/constants.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Python27/Lib/ConfigParser.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -648,33 +617,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Egomatic_server/config_reader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="35" column="41" lean-forward="false" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
-          <folding>
-            <element signature="e#25#39#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/message_types.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Egomatic_flowmeter/network_receiver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="39" column="26" lean-forward="false" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
-          <folding>
-            <element signature="e#25#38#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/sqlite3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="509">
@@ -693,14 +635,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="21" column="53" lean-forward="false" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Egomatic_server/network_sender.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="20" column="17" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
           <folding />
         </state>
       </provider>
@@ -725,14 +659,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
           <caret line="283" column="62" lean-forward="false" selection-start-line="283" selection-start-column="62" selection-end-line="283" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
           <folding />
         </state>
       </provider>
@@ -806,60 +732,138 @@
     <entry file="file://$PROJECT_DIR$/Egomatic_cardreader/egomatic_cardreader.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="545">
-          <caret line="82" column="26" lean-forward="true" selection-start-line="82" selection-start-column="26" selection-end-line="82" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Egomatic_flowmeter/flowmeter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="743">
-          <caret line="77" column="20" lean-forward="true" selection-start-line="77" selection-start-column="20" selection-end-line="77" selection-end-column="20" />
+          <caret line="82" column="26" lean-forward="false" selection-start-line="82" selection-start-column="26" selection-end-line="82" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Egomatic_flowmeter/network_sender.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        <state relative-caret-position="646">
+          <caret line="42" column="76" lean-forward="false" selection-start-line="42" selection-start-column="76" selection-end-line="42" selection-end-column="76" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Egomatic_flowmeter/egomatic.py">
+    <entry file="file://$PROJECT_DIR$/message_types.ini">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="834">
-          <caret line="134" column="46" lean-forward="true" selection-start-line="134" selection-start-column="46" selection-end-line="134" selection-end-column="46" />
+        <state relative-caret-position="153">
+          <caret line="9" column="15" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Egomatic_flowmeter/network_receiver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding>
-            <element signature="e#43#59#0" expanded="true" />
+            <element signature="e#25#38#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Egomatic_flowmeter/flowmeter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.1/system/python_stubs/-762174762/_multiprocessing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="58" column="41" lean-forward="false" selection-start-line="58" selection-start-column="38" selection-end-line="58" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.1/system/python_stubs/-762174762/psycopg2/_psycopg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="311" column="4" lean-forward="false" selection-start-line="311" selection-start-column="4" selection-end-line="311" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/psycopg2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="709">
+          <caret line="163" column="15" lean-forward="true" selection-start-line="163" selection-start-column="15" selection-end-line="163" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Egomatic_server/database_adapter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="20" column="27" lean-forward="false" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Egomatic_server/network_sender.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="30" column="8" lean-forward="false" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Egomatic_server/egomatic_server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="33" lean-forward="false" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+        <state relative-caret-position="391">
+          <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
           <folding>
             <element signature="e#25#52#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Egomatic_server/database_adapter.py">
+    <entry file="file://$PROJECT_DIR$/Egomatic_server/constants.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="794">
-          <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Egomatic_server/config_reader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="37" lean-forward="true" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+          <folding>
+            <element signature="e#25#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Egomatic_server/processor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="647">
-          <caret line="90" column="33" lean-forward="false" selection-start-line="90" selection-start-column="33" selection-end-line="90" selection-end-column="33" />
-          <folding />
+        <state relative-caret-position="324">
+          <caret line="61" column="35" lean-forward="false" selection-start-line="61" selection-start-column="35" selection-end-line="61" selection-end-column="35" />
+          <folding>
+            <element signature="e#25#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Egomatic_flowmeter/egomatic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="139" column="54" lean-forward="true" selection-start-line="139" selection-start-column="54" selection-end-line="139" selection-end-column="54" />
+          <folding>
+            <element signature="e#43#59#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
