@@ -7,3 +7,5 @@
 [submodule "Egomatic_server"]
 	path = Egomatic_server
 	url = https://github.com/kupob/Egomatic_server
+[submodule "Egomatic_admin"]
+	url = https://github.com/kupob/Egomatic_admin
